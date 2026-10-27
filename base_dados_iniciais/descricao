@@ -1,0 +1,8 @@
+## DADOS DISPONIBILIZADOS PARA REALIZAÇÃO DO DESAFIO
+cnefe_bahia.csv: 
+Base de referência oficial do IBGE contendo endereços e seus respectivos setores censitários para o estado da Bahia.  
+  
+base_busca.csv (ou .xlsx):
+Arquivo contendo 100 endereços com diferentes níveis de qualidade (completos, incompletos e não padronizados) para teste do algoritmo de geocodificação.  
+
+Link do drive: https://drive.google.com/drive/folders/1CFNsuEoOym7ji12UdL1yxgK32cwO5C-0?usp=sharing 
